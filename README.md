@@ -8,9 +8,8 @@ Além disso, tenho experiência em HTML, CSS, Java Script e React. Hoje dedico c
 
 # ☎️ Informações de Contato
 
-📧 Email: wellingtonjunior@outlook.com 
 🔗 LinkedIn: [www.linkedin.com/in/wellington-junior-32b18b56](https://www.linkedin.com/in/wellington-junior-32b18b56)
-📱 +55 (031) 999129-0656
+
 ---
 # 🛠 Skills
 
